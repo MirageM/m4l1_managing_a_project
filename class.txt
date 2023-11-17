@@ -1,4 +1,4 @@
-Colors: 
+Mirage's Colors: 
 
 Crimson
 Orange
